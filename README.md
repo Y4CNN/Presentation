@@ -13,7 +13,7 @@
 <p><strong>Email</strong> : </p>
 <a href="mailto:boualiyacine15@gmail.com?subject=Bonjour%20je%20souhaite%20vous%20contacter&body=Hey,%20Y4CNN%20"><img src="https://img.icons8.com/color/48/000000/gmail--v2.png"/></a>
 <p><strong>Site web</strong> : </p><a href="https://y4cnn.github.io/Portfolio/"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
-<p><a href="https://linkedin.com/in/https://www.linkedin.com/in/yacine-bouali-54017119b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yacine-bouali-54017119b/" height="30" width="40" /></a>
+<p><a href="https://www.linkedin.com/in/yacine-bouali-54017119b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yacine-bouali-54017119b/" height="30" width="40" /></a>
 </p>
 
 
