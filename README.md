@@ -1,8 +1,8 @@
 ![Header](./github-header-image.png)
 <h3 align="center">Souhaite devenir programmeur Web ou mobile !</h3>
 <ul>
-<li> Étudiant au lycée Robert Schuman 📚
-<li> BTS SIO SLAM 💻
+<li> Développeur au sein du pôles de développement FRET SNCF 📚
+<li> ESGI ARCHITECTURE LOGICIEL 💻
 <li> Connaissances en HTML | CSS | PHP | JAVA | SQL ... 🧠
 </ul>
 
